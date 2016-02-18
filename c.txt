@@ -1,2 +1,3 @@
 Adding another line.
+Adding new line.
 This is also another test file.
