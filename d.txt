@@ -1,3 +1,4 @@
+Adding a new line.
 Adding a change.
 Boss making the change.
 Adding hotfix.
