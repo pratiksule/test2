@@ -1,3 +1,4 @@
+Adding a new change.
 Adding a new line.
 Adding another line.
 Adding new line.
