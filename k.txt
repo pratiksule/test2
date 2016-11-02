@@ -1,2 +1,3 @@
+Adding a new change.
 Adding a new file.1
 Adding a new file.
