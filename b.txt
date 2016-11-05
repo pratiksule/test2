@@ -1,4 +1,4 @@
-Adding conflicting line demo4
+Conflicting line demo2-b
 Adding a new line.
 Adding a new line.
 Adding new file.
