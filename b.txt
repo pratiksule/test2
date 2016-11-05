@@ -1,3 +1,4 @@
+Rebase Demo2
 Conflicting line demo2-b
 Adding a new line.
 Adding a new line.
