@@ -1,3 +1,4 @@
+Conflicting line from USER-B
 adding a new file.
 New lIne.
 New Line.
