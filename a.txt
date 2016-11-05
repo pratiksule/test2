@@ -1,4 +1,4 @@
-Conflicting line from USER-B
+Line from demo2-a
 adding a new file.
 New lIne.
 New Line.
